@@ -1,6 +1,6 @@
 # Handwritten Digit Classification with PyTorch
 
-This project is a beginner-friendly deep learning implementation using PyTorch to classify handwritten digits from the Digit Dataset on Kaggle.  
+This project a deep learning implementation using PyTorch to classify handwritten digits from the Digit Dataset on Kaggle.  
 A simple fully connected neural network was trained from scratch and achieved an accuracy of 86.61% on the test set.
 
 ## Features
